@@ -1,4 +1,7 @@
 # Multimodal-Unit
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17499887.svg)](https://doi.org/10.5281/zenodo.17499887)
+
+
 Official implementation of Multi-Modal UNIT (MMU) — a unified transformer for joint language–vision understanding and content generation.
 # 🧠 Multi-Modal UNIT (MMU)
 

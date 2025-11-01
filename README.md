@@ -16,9 +16,6 @@ Through **shared attention layers** and a **hybrid optimization strategy** combi
 ---
 ## 🧠 Model Architecture
 
-<p align="center">
-  <img src="docs/architecture.png" width="700">
-</p>
 
 *Figure 1. The overall architecture of Multi-Modal UNIT (MMU).*
 

@@ -34,16 +34,16 @@ Through **shared attention layers** and a **hybrid optimization strategy** combi
 ## 🧩 Result Comparisions
 
 <p align="center">
-  <img src="recallperformance" width="700">
+  <img src="recallperformance.png" width="700">
 </p>
 
 *Figure 2. Recall Performance Comparison of Evaluation Metrics*
 <p align="center">
-  <img src="evaluation" width="700">
+  <img src="evaluation.png" width="700">
 </p>
 
 *Figure 3. Caption Generation Performance on Evaluation Metrics*
-MMU achieves the highest captioning scores, showing a +9.2 gain in CIDEr compared to Flamingo as shown in Fig.3. This highlights how effective the unified architecture with modality adapters and hybrid losses is. Qualitative results show that MMU produces more contextually relevant captions and manages object relationships better than the baselines.
+- MMU achieves the highest captioning scores, showing a +9.2 gain in CIDEr compared to Flamingo as shown in Fig.3. This highlights how effective the unified architecture with modality adapters and hybrid losses is. Qualitative results show that MMU produces more contextually relevant captions and manages object relationships better than the baselines.
 
 
 

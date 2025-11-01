@@ -14,6 +14,15 @@ Unlike traditional dual-encoder approaches that treat text and image separately,
 Through **shared attention layers** and a **hybrid optimization strategy** combining contrastive and generative objectives, MMU achieves both strong accuracy and high computational efficiency across multimodal tasks.
 
 ---
+## 🧠 Model Architecture
+
+<p align="center">
+  <img src="docs/architecture.png" width="700">
+</p>
+
+*Figure 1. The overall architecture of Multi-Modal UNIT (MMU).*
+
+
 
 ## 🧩 Key Contributions
 - ✅ **Unified single-stream transformer** for both language and vision processing.  

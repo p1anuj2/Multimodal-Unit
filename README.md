@@ -58,3 +58,15 @@ Through **shared attention layers** and a **hybrid optimization strategy** combi
 This project is licensed under the **MIT License**.  
 © 2025 **ANUJ ATTRI**. All rights reserved.  
 When using this code or referencing results, please cite the associated paper published in *The Visual Computer (2025)*.
+
+---
+
+## 📚 Citation
+
+If you use this repository or refer to our work, please cite:
+
+Anuj Attri, HariOm (2025). *Unified Transformer Framework for Integrated Language–Vision Understanding and Content Generation*  
+Zenodo. [https://doi.org/10.5281/zenodo.17499887](https://doi.org/10.5281/zenodo.17499887)
+
+
+

@@ -1,0 +1,12 @@
+dataset: COCO
+task: captioning
+epochs: 30
+batch_size: 16
+learning_rate: 1e-4
+optimizer: AdamW
+scheduler: cosine
+model:
+  hidden_dim: 768
+  num_layers: 12
+  num_heads: 12
+  dropout: 0.1

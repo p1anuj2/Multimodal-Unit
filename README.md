@@ -7,7 +7,7 @@ Official implementation of Multi-Modal UNIT (MMU) — a unified transformer for 
 
 Official implementation of the paper:  
 **"Unified Transformer Framework for Integrated Language–Vision Understanding and Content Generation"**  
-Submitted to *The Visual Computer* (Springer, 2025)
+Submitted to *Springer Nature 2025*
 
 ---
 

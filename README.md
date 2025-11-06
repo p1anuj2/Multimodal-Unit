@@ -57,7 +57,7 @@ Through **shared attention layers** and a **hybrid optimization strategy** combi
 ## ⚖️ License & Copyright
 This project is licensed under the **MIT License**.  
 © 2025 **ANUJ ATTRI**. All rights reserved.  
-When using this code or referencing results, please cite the associated paper published in *The Visual Computer (2025)*.
+When using this code or referencing results, please cite this repo.
 
 ---
 
